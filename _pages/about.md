@@ -23,9 +23,9 @@ News
 
 Volunteer experiences
 ======
-- IEEE Globecom 2023 SAC-SSC Session Chair
-- IEEE WCNC 2024 TPC Member
 - IEEE PIMRC 2024 TPC Member
+- IEEE WCNC 2024 TPC Member
+- IEEE Globecom 2023 SAC-SSC Session Chair
 - As a Reviewer for
   - IEEE JSAC, TVT
   - IEEE Communication Letters
