@@ -9,7 +9,7 @@ venue: 'October 3'
 paperurl: 'https://john-chen1223.github.io/files/paper1.pdf'
 ---
 
-![Fig. 1](/images/editing-talk.png)
+![Fig. 1](/images/1stFig1.png)
 Fig. 1. SAGSIN architecture with VLEO satellite constellation. (GNSS in the MEO layer and geosynchronous satellite system in the GEO layer are considered)
 
 
