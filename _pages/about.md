@@ -13,7 +13,9 @@ I am interested in wireless communications and networking, space communications,
 
 News
 ======
-<span style="color:red">这是test</span>
+
+- <span style="color:red">03,2024. I am currently seeking suitable ph.D positions. If there are any appropriate opportunities, please feel free to drop me an email. I would appreciate it!</span>
+- 10,2024. Our new work has been early access
 
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
