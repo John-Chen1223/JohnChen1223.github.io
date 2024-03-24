@@ -3,8 +3,6 @@ title: "VLEO Satellite Constellation Design for Regional Aviation and Marine Cov
 collection: publications
 permalink: /publication/2023-10-03-paper-title-number-1
 excerpt: 'Guoquan Chen, Shaohua Wu, Yajing Deng, Jian Jiao, Qinyu Zhang.'
-date: 2023-10-03
-venue: 'October 3'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
 
