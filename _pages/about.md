@@ -32,13 +32,31 @@ Volunteer experiences
   - IEEE INFOCOM, WCNC, PIMRC, WCSP
 
 
-Awards
+Awards (during B.S. & M.S. degree)
 ======
-- 2022, IEEE Globecom 2023 SAC-SSC Session Chair (10%)
-- 2021, 
-- 2022, Outstanding Graduates(10%).
-2022, Outstanding Graduation Project(10%).
-2020, First Prize in National College Students’ Innovation & Entrepreneurship Training Projec.
+**Academic**
+- China National Postgraduate Scholarship (0.2%)
+- Postgraduate Grand Prize Scholarship
+- Outstanding Student Pacemaker (0.3%)
+- University Outstanding Graduation Project (2%)
+- Faculty Outstanding Graduation Project
+- Outstanding Graduates(10%).
+- Undergraduate First Prize Scholarship (5%)
 
+**Competition**
+- Second Prize (captain) of China National University Student Mathematical Modelling Competition
+- Third Prize (individual) of China National University Student Mathematical Competition
+- First Prize (captain) of China Guangdong Province Mathematical Modelling Competition
+- Third Prize (team member) of China Guangdong Province Electronic Design Competition
+- Winning Prize in the ZTE Algorithm Competition
 
-Faculty Outstanding Graduation Project and University Outstanding Graduation Project (2%)
+**Volunteer & Activity**
+- Outstanding Individual in University Social Activities
+- Outstanding Student Leader
+- 5 times as an Outstanding Volunteer (5 times)
+  
+**Art & Sports**  
+- University Chorus Champion
+- University Sports Meet 100m Last 8
+- Faculty Sports Meet 100m Championship
+- University Orienteering Third Prize
