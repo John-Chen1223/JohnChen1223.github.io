@@ -26,17 +26,19 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "A possible Ph. D candidate"
   location         : "Shenzhen, Guangdong, China"
-  employer         : "Red Brick University"
+  employer         : "Harbin Institute of Technology, Shenzhen"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "180210217@stu.hit.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=z1irpJEAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  orcid            : "https://orcid.org/0009-0003-1528-7139"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Guoquan-Chen-4"
+  WEB_OF_SCIENCE   : "https://www.webofscience.com/wos/author/record/35819443?SID=USW2EC0D13TlZz9NxcwP4vRSj7HkC"
+
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
