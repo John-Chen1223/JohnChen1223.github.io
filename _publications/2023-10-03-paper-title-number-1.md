@@ -2,7 +2,8 @@
 title: "VLEO Satellite Constellation Design for Regional Aviation and Marine Coverage"
 collection: publications
 permalink: /publication/2023-10-03-paper-title-number-1
-excerpt: '**Guoquan Chen**, Shaohua Wu*, Yajing Deng, Jian Jiao, Qinyu Zhang.'
+excerpt: '**Guoquan Chen**, Shaohua Wu*, Yajing Deng, Jian Jiao, Qinyu Zhang.<br>
+**IEEE Transactions on Network Science and Engineering (JCRQ1, IF6.6)**'
 date: 2023-10-03
 venue: 'October 3'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
