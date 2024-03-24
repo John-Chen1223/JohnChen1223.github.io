@@ -2,7 +2,7 @@
 title: "Communication-Navigation Integrated Satellite Constellation for Lunar Exploration: Frozen-Orbit Based HyInc Walker"
 collection: publications
 permalink: /publication/2024-02-14-paper-title-number-2
-excerpt: '**Guoquan Chen**, Shaohua Wu\*, Junhua You, Qinyu Zhang\*.<br>
+excerpt: '**Guoquan Chen**, Shaohua Wu**\***, Junhua You, Qinyu Zhang**\***. (**\*** indicates corresponding author)<br>
 **IEEE Journal on Selected Areas in Communications (JCRQ1, IF16.4)**'
 date: 2024-02-14
 venue: 'February 14'
