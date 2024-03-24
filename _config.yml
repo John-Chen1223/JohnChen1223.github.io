@@ -11,7 +11,7 @@ locale                   : "CN"
 title                    : "Guoquan Chen"
 title_separator          : "-"
 name                     : &name "Guoquan Chen"
-description              : &description "A possible Ph. D candidate"
+description              : &description "A possible Ph. D candidate. Now a M.S. student at Harbin Institute of Technology (Shenzhen)."
 url                      : https://john-chen1223.github.io # the base hostname & protocol for your site e.g. "https://john-chen1223.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "john-chen1223/john-chen1223.github.io"
@@ -37,19 +37,17 @@ author:
   orcid            : "https://orcid.org/0009-0003-1528-7139"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Guoquan-Chen-4"
-  WEB_OF_SCIENCE   : "https://www.webofscience.com/wos/author/record/35819443?SID=USW2EC0D13TlZz9NxcwP4vRSj7HkC"
-
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -58,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "Guoquan Chen"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -66,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
+  twitter          : # "UniofOxford"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -91,7 +89,8 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
+    # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -122,7 +121,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -235,15 +234,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # # _teaching
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _publications
   - scope:
       path: ""
