@@ -36,3 +36,9 @@ Awards
 ======
 - 2022, IEEE Globecom 2023 SAC-SSC Session Chair (10%)
 - 2021, 
+- 2022, Outstanding Graduates(10%).
+2022, Outstanding Graduation Project(10%).
+2020, First Prize in National College Students’ Innovation & Entrepreneurship Training Projec.
+
+
+Faculty Outstanding Graduation Project and University Outstanding Graduation Project (2%)

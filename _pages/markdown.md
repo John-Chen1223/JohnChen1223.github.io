@@ -7,7 +7,19 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
+**Contact information is below, including email and others (WeChat & QQ).**
+
+E-mail1: 180210217@stu.hit.edu.cn
+
+E-mail2: guoquanchen1223@163.com
+
+WeChat: John12231223
+![WeChat](/images/WeChat.JPG)
+
+QQ: 690189556
+![QQ](/images/QQ.JPG)
+
+<!-- ## Locations of key files/directories
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
@@ -217,9 +229,9 @@ The emphasize tag should _italicize_ text.
 
 ### Insert Tag
 
-This tag should denote <ins>inserted</ins> text.
+This tag should denote <ins>inserted</ins> text. -->
 
-### Keyboard Tag
+<!-- ### Keyboard Tag
 
 This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
 
@@ -260,5 +272,5 @@ This allows you to denote <var>variables</var>.
 ***
 **Footnotes**
 
-The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
+The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>. -->
 
