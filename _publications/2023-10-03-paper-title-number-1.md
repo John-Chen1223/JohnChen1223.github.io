@@ -6,7 +6,7 @@ excerpt: '**Guoquan Chen**, Shaohua Wu**\***, Yajing Deng, Jian Jiao, Qinyu Zhan
 **IEEE Transactions on Network Science and Engineering (JCRQ1, IF6.6)**'
 date: 2023-10-03
 venue: 'October 3'
-paperurl: 'https://github.com/John-Chen1223/John-Chen1223.github.io/blob/main/files/paper1.pdf'
+paperurl: 'https://john-chen1223.github.io/files/paper1.pdf'
 ---
 
 Example: editing a markdown file for a talk

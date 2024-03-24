@@ -6,7 +6,7 @@ excerpt: '**Guoquan Chen**, Shaohua Wu**\***, Junhua You, Qinyu Zhang**\***. (**
 **IEEE Journal on Selected Areas in Communications (JCRQ1, IF16.4)**'
 date: 2024-02-14
 venue: 'February 14'
-paperurl: 'https://github.com/John-Chen1223/John-Chen1223.github.io/blob/main/files/paper2.pdf'
+paperurl: 'https://john-chen1223.github.io/files/paper2.pdf'
 ---
 
 Example: editing a markdown file for a talk
