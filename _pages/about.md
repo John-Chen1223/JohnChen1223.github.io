@@ -40,14 +40,14 @@ Awards (during B.S. & M.S. degree)
 - Outstanding Student Pacemaker (0.3%)
 - University Outstanding Graduation Project (2%)
 - Faculty Outstanding Graduation Project
-- Outstanding Graduates(10%).
+- Outstanding Graduate (10%)
 - Undergraduate First Prize Scholarship (5%)
 
 **Competition**
-- Second Prize (captain) of China National University Student Mathematical Modelling Competition
-- Third Prize (individual) of China National University Student Mathematical Competition
-- First Prize (captain) of China Guangdong Province Mathematical Modelling Competition
-- Third Prize (team member) of China Guangdong Province Electronic Design Competition
+- Second Prize (Captain) of China National University Student Mathematical Modelling Competition
+- Third Prize (Individual) of China National University Student Mathematical Competition
+- First Prize (Captain) of China Guangdong Province Mathematical Modelling Competition
+- Third Prize (Team Member) of China Guangdong Province Electronic Design Competition
 - Winning Prize in the ZTE Algorithm Competition
 
 **Volunteer & Activity**
