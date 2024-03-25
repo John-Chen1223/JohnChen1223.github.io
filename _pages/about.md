@@ -9,7 +9,7 @@ redirect_from:
 
 I am now pursuing my M.S. degree from [Harbin Institute of Technology, Shenzhen](http://en.hitsz.edu.cn/), enrolled in Sept 2022, attending Provincial Key Laboratory of Aerospace Communication and Networking Technology, supervised by Prof. [Shaohua Wu](http://faculty.hitsz.edu.cn/wushaohua) and Prof. [Qinyu Zhang](https://faculty.hitsz.edu.cn/zhangqinyu). My major is Information and Communication Engineering. Before that, I also graduated with a B.S. Degree in Communication Engineering from this university and was awarded postgraduate recommendation.
 
-I am interested in wireless communications and networking, space communications, resource allocation and optimisation, and intelligent communications.
+I am interested in wireless communications and networking, space communications, resource allocation and optimization, and intelligent communications.
 
 News
 ======
@@ -59,4 +59,5 @@ Awards (during B.S. & M.S. degree)
 - University Chorus Champion
 - University Sports Meet 100m Last 8
 - Faculty Sports Meet 100m Championship
+- University Sports Meet 100m-Relay Last 8
 - University Orienteering Third Prize
