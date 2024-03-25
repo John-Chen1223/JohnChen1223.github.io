@@ -21,7 +21,7 @@ News
 - **10, 2023**. The paper entitled *VLEO Satellite Constellation Design for Regional Aviation and Marine Coverage* has been published in the **IEEE Transactions on Network Science and Engineering (JCRQ1, IF6.6)**. DOI: [10.1109/TNSE.2023.3321600](https://ieeexplore.ieee.org/document/10269648). 
 
 
-Volunteer experiences
+Volunteer Experiences
 ======
 - IEEE PIMRC 2024 TPC Member
 - IEEE WCNC 2024 TPC Member
