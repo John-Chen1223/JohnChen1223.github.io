@@ -35,6 +35,7 @@ Volunteer Experiences
 Awards (during B.S. & M.S. degree)
 ======
 **Academic**
+- HIT Top 10 Outstanding Candidate
 - China National Postgraduate Scholarship (0.2%)
 - Postgraduate Grand Prize Scholarship
 - Outstanding Student Pacemaker (0.3%)
