@@ -54,7 +54,7 @@ Awards (during B.S. & M.S. degree)
 **Volunteer & Activity**
 - Outstanding Individual in University Social Activities
 - Outstanding Student Leader
-- 5 times as an Outstanding Volunteer (5 times)
+- Outstanding Volunteer (7 times)
   
 **Art & Sports**  
 - University Chorus Champion
