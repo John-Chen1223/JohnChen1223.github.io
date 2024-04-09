@@ -23,6 +23,7 @@ News
 
 Volunteer Experiences
 ======
+- IEEE WCNC 2024 Track4-27 Satellite and Space Communications Session Chair
 - IEEE PIMRC 2024 TPC Member
 - IEEE WCNC 2024 TPC Member
 - IEEE Globecom 2023 SAC-SSC Session Chair
