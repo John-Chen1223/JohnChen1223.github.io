@@ -6,7 +6,7 @@ excerpt: '**Guoquan Chen**, Shaohua Wu**\***, Junhua You, Qinyu Zhang**\***. (**
 **IEEE Journal on Selected Areas in Communications (JCRQ1, IF16.4)**'
 date: 2024-02-14
 venue: 'February 14'
-paperurl: 'https://john-chen1223.github.io/files/paper2.pdf'
+paperurl: 'https://john-chen1223.github.io/JohnChen1223.github.io/files/paper2.pdf'
 ---
 
 ![Fig. 1](/images/2ndFig1.png)

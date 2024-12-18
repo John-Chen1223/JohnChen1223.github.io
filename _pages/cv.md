@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-If the embedded PDF below does not load, you can <a href="https://john-chen1223.github.io/files/CV.pdf">download it here.</a>
+If the embedded PDF below does not load, you can <a href="https://john-chen1223.github.io/JohnChen1223.github.io/files/CV.pdf">download it here.</a>
 <br/>
 
-<embed src="https://john-chen1223.github.io/files/CV.pdf" type="application/pdf" width="100%" />
+<embed src="https://john-chen1223.github.io/JohnChen1223.github.io/files/CV.pdf" type="application/pdf" width="100%" />
 
 
 <!-- Education
