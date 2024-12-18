@@ -14,10 +14,10 @@ E-mail1: 180210217@stu.hit.edu.cn
 E-mail2: guoquanchen1223@163.com
 
 WeChat: John12231223
-![WeChat](/images/WeChat.JPG)
+![WeChat](https://john-chen1223.github.io/JohnChen1223.github.io/images/WeChat.JPG)
 
 QQ: 690189556
-![QQ](/images/QQ.JPG)
+![QQ](https://john-chen1223.github.io/JohnChen1223.github.io/images/QQ.JPG)
 
 <!-- ## Locations of key files/directories
 
