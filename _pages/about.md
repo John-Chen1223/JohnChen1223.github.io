@@ -16,7 +16,7 @@ News
 
 <!-- - <span style="color:#C00000">**03, 2024**. I am currently seeking suitable Ph.D positions. If there are any appropriate opportunities, please feel free to drop me an email (</span>[180210217@stu.hit.edu.cn]()<span style="color:#C00000">,</span> [guoquanchen1223@163.com]()<span style="color:#C00000">). I would appreciate it!</span> -->
 
-- **04, 2024**. I will be attending the IEEE Wireless Communications and Networking Conference (**WCNC'2024**) in Dubai, UAE, to share research outputs on the circumlunar constellation network and configuration analysis.
+- **04, 2024**. I participated in the IEEE Wireless Communications and Networking Conference (**WCNC'2024**) in Dubai, UAE, to share research outputs on the circumlunar constellation network and configuration analysis.
 - **02, 2024**. The paper entitled *Communication-Navigation Integrated Satellite Constellation for Lunar Exploration: Frozen-Orbit-Based HyInc Walker* has been early access for publication in the **IEEE Journal on Selected Areas in Communications (JCRQ1, IF16.4)**. DOI: [10.1109/JSAC.2024.3365888](https://ieeexplore.ieee.org/document/10436138/). 
 - **12, 2023**. I participated in the IEEE Global Communications Conference (**GlobeCom'2023**) in Kuala Lumpur, Malaysia, sharing research outputs on the topic of optimisation and analysis of VLEO satellite constellation design.
 - **10, 2023**. The paper entitled *VLEO Satellite Constellation Design for Regional Aviation and Marine Coverage* has been published in the **IEEE Transactions on Network Science and Engineering (JCRQ1, IF6.6)**. DOI: [10.1109/TNSE.2023.3321600](https://ieeexplore.ieee.org/document/10269648). 
@@ -24,6 +24,7 @@ News
 
 Volunteer Experiences
 ======
+- IEEE WCNC 2025 TPC Member
 - IEEE WCNC 2024 Track4-27 Satellite and Space Communications Session Chair
 - IEEE PIMRC 2024 TPC Member
 - IEEE WCNC 2024 TPC Member
@@ -56,7 +57,7 @@ Awards (during B.S. & M.S. degree)
 **Volunteer & Activity**
 - Outstanding Individual in University Social Activities
 - Outstanding Student Leader
-- Outstanding Volunteer (7 times)
+- Outstanding Volunteer (8 times)
   
 **Art & Sports**  
 - University Chorus Champion
