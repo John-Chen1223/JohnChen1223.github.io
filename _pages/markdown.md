@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-**Contact information is below, including email and others (WeChat & QQ).**
+**Contact information is below, including email and others (WeChat).**
 
 E-mail1: 180210217@stu.hit.edu.cn
 
