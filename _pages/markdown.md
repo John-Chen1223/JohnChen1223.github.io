@@ -16,8 +16,6 @@ E-mail2: guoquanchen1223@163.com
 WeChat: John12231223
 ![WeChat](https://john-chen1223.github.io/JohnChen1223.github.io/images/WeChat.JPG)
 
-QQ: 690189556
-![QQ](https://john-chen1223.github.io/JohnChen1223.github.io/images/QQ.JPG)
 
 <!-- ## Locations of key files/directories
 
