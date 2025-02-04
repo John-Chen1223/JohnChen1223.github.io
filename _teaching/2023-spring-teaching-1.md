@@ -8,4 +8,4 @@ date: 2023
 location: "Shenzhen, China"
 ---
 
-**Teaching Assistant with Prof. [Shaohua Wu](http://faculty.hitsz.edu.cn/wushaohua).**
+**Teaching Assistant with Prof.** [Shaohua Wu](http://faculty.hitsz.edu.cn/wushaohua).
