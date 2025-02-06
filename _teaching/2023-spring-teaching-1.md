@@ -1,7 +1,7 @@
 ---
 title: "Communication Theory"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course"
 permalink: /teaching/2023-spring-teaching-1
 venue: "Harbin Institute of Technology (Shenzhen), Department of Information and Science Technology"
 date: 2023-09-01
