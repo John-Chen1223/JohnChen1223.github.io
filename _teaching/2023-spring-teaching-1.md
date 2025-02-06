@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-teaching-1
 venue: "Harbin Institute of Technology (Shenzhen), Department of Information and Science Technology"
-date: 2023
+date: 2023-01-01
 location: "Shenzhen, China"
 ---
 
