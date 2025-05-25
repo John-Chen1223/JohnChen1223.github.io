@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now pursuing my Ph.D. degree from [Harbin Institute of Technology, Shenzhen](http://en.hitsz.edu.cn/), enrolled in March 2025, attending Provincial Key Laboratory of Aerospace Communication and Networking Technology, supervised by Prof. [Shaohua Wu](http://faculty.hitsz.edu.cn/wushaohua) and Prof. [Qinyu Zhang](https://faculty.hitsz.edu.cn/zhangqinyu). My major is Information and Communication Engineering. Before that, I also graduated with M.Eng. and B.Eng. degree from this university.
+I am now pursuing my Ph.D. degree from [Harbin Institute of Technology, Shenzhen](http://en.hitsz.edu.cn/), enrolled in March 2025, attending Provincial Key Laboratory of Aerospace Communication and Networking Technology, supervised by Prof. [Shaohua Wu](http://faculty.hitsz.edu.cn/wushaohua) and Prof. [Qinyu Zhang](https://faculty.hitsz.edu.cn/zhangqinyu). My major is Information and Communication Engineering. Before that, I also graduated with M.S. and B.S. degree from this university.
 
 I am interested in wireless communications and networking, space communications, resource allocation and optimization, and intelligent communications. 
 
