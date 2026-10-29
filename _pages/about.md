@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now pursuing my Ph.D. degree from [Harbin Institute of Technology, Shenzhen](http://en.hitsz.edu.cn/), enrolled in March 2025, attending Provincial Key Laboratory of Aerospace Communication and Networking Technology, supervised by Prof. [Shaohua Wu](http://faculty.hitsz.edu.cn/wushaohua) and Prof. [Qinyu Zhang](https://faculty.hitsz.edu.cn/zhangqinyu). My major is Information and Communication Engineering. Before that, I also graduated with M.S. and B.S. degree from this university.
+I am now pursuing my test Ph.D. degree from [Harbin Institute of Technology, Shenzhen](http://en.hitsz.edu.cn/), enrolled in March 2025, attending Provincial Key Laboratory of Aerospace Communication and Networking Technology, supervised by Prof. [Shaohua Wu](http://faculty.hitsz.edu.cn/wushaohua) and Prof. [Qinyu Zhang](https://faculty.hitsz.edu.cn/zhangqinyu). My major is Information and Communication Engineering. Before that, I also graduated with M.S. and B.S. degree from this university.
 
 I am interested in wireless communications and networking, space communications, resource allocation and optimization, and intelligent communications. 
 
@@ -16,6 +16,8 @@ News
 
 <!-- - <span style="color:#C00000">**03, 2024**. I am currently seeking suitable Ph.D positions. If there are any appropriate opportunities, please feel free to drop me an email (</span>[180210217@stu.hit.edu.cn]()<span style="color:#C00000">,</span> [guoquanchen1223@163.com]()<span style="color:#C00000">). I would appreciate it!</span> -->
 
+
+- **06, 2026**. The paper entitled *Heterogeneous Multi-Layer Constellation for Future Satellite Internet: Framework, Optimization, and Evolution Vision* has been published in the **IEEE Wireless Communications (JCRQ1, IF13.4)**. DOI: [10.1109/MWC.2026.3654048](https://ieeexplore.ieee.org/document/11381411). 
 - **06, 2025**. I participated in the IEEE International Conference on Communications (**ICC'2025**) in Montreal, Cannada, to share research outputs on the next-generation WIFI networks empowered by deep reinforcement learning.
 - **04, 2024**. I participated in the IEEE Wireless Communications and Networking Conference (**WCNC'2024**) in Dubai, UAE, to share research outputs on the circumlunar constellation network and configuration analysis.
 - **02, 2024**. The paper entitled *Communication-Navigation Integrated Satellite Constellation for Lunar Exploration: Frozen-Orbit-Based HyInc Walker* has been early access for publication in the **IEEE Journal on Selected Areas in Communications (JCRQ1, IF16.4)**. DOI: [10.1109/JSAC.2024.3365888](https://ieeexplore.ieee.org/document/10436138/). 
@@ -26,8 +28,8 @@ News
 Volunteer Experiences
 ======
 - **Session Chair:** WCNC'2024, GLOBECOM'2023
-- **TPC Member:** WCNC'2025, WCNC'2024, PIMRC'2025, PIMRC'2024
-- **Reviewer:** JSAC, TAES, TVT, COMML; INFOCOM, WCNC, PIMRC, WCSP
+- **TPC Member:** WCNC'2024 - now, PIMRC'2024 - now, ISAC'2026 - now
+- **Reviewer:** JSAC, TWC, TAES, TVT, COMML; INFOCOM, WCNC, PIMRC, ISAC, WCSP
 
 Awards
 ======
