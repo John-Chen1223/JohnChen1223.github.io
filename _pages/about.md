@@ -16,6 +16,8 @@ News
 
 <!-- - <span style="color:#C00000">**03, 2024**. I am currently seeking suitable Ph.D positions. If there are any appropriate opportunities, please feel free to drop me an email (</span>[180210217@stu.hit.edu.cn]()<span style="color:#C00000">,</span> [guoquanchen1223@163.com]()<span style="color:#C00000">). I would appreciate it!</span> -->
 
+
+- **10, 2026**. I was honored to be selected for the **CAST Young S&T Talents Cultivation Program**, a national-level fellowship supporting promising doctoral students in China. 
 - **09, 2026**. The paper entitled *Permanent Connection Guaranteed Resilient LEO Constellation for Remote Area Communications* has been published in the **IEEE Transactions on Wireless Communications (JCRQ1, IF10.3)**. DOI: [10.1109/TWC.2026.3737225](https://ieeexplore.ieee.org/document/11707744). 
 - **06, 2026**. The paper entitled *Heterogeneous Multi-Layer Constellation for Future Satellite Internet: Framework, Optimization, and Evolution Vision* has been published in the **IEEE Wireless Communications (JCRQ1, IF13.7)**. DOI: [10.1109/MWC.2026.3654048](https://ieeexplore.ieee.org/document/11381411). 
 - **06, 2025**. I participated in the IEEE International Conference on Communications (**ICC'2025**) in Montreal, Cannada, to share research outputs on the next-generation WIFI networks empowered by deep reinforcement learning.
