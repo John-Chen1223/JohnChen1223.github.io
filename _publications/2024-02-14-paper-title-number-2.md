@@ -3,7 +3,7 @@ title: "Communication-Navigation Integrated Satellite Constellation for Lunar Ex
 collection: publications
 permalink: /publication/2024-02-14-paper-title-number-2
 excerpt: '**Guoquan Chen**, Shaohua Wu**\***, Junhua You, Qinyu Zhang**\***. (**\*** indicates corresponding author)<br>
-**IEEE Journal on Selected Areas in Communications (JCRQ1, IF16.4)**'
+**IEEE Journal on Selected Areas in Communications (JCRQ1, IF16.8)**'
 date: 2024-02-14
 venue: 'February 14'
 paperurl: 'https://john-chen1223.github.io/JohnChen1223.github.io/files/paper2.pdf'

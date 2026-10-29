@@ -11,7 +11,9 @@ redirect_from:
 
 E-mail1: 180210217@stu.hit.edu.cn
 
-E-mail2: guoquanchen1223@163.com
+E-mail2: guoquanchen1223@gmail.com
+
+E-mail3: guoquanchen1223@163.com
 
 WeChat: John12231223
 ![WeChat](https://john-chen1223.github.io/JohnChen1223.github.io/images/WeChat.JPG)
