@@ -18,13 +18,13 @@ News
 
 
 - **10, 2026**. I was honored to be selected for the **CAST Young S&T Talents Cultivation Program**, a national-level fellowship supporting promising doctoral students in China. 
-- **09, 2026**. The paper entitled *Permanent Connection Guaranteed Resilient LEO Constellation for Remote Area Communications* has been published in the **IEEE Transactions on Wireless Communications (JCRQ1, IF10.3)**. DOI: [10.1109/TWC.2026.3737225](https://ieeexplore.ieee.org/document/11707744). 
-- **06, 2026**. The paper entitled *Heterogeneous Multi-Layer Constellation for Future Satellite Internet: Framework, Optimization, and Evolution Vision* has been published in the **IEEE Wireless Communications (JCRQ1, IF13.7)**. DOI: [10.1109/MWC.2026.3654048](https://ieeexplore.ieee.org/document/11381411). 
+- **09, 2026**. The paper entitled *Permanent Connection Guaranteed Resilient LEO Constellation for Remote Area Communications* has been published in the **IEEE Transactions on Wireless Communications (1st Author, JCRQ1, IF10.3)**. DOI: [10.1109/TWC.2026.3737225](https://ieeexplore.ieee.org/document/11707744). 
+- **06, 2026**. The paper entitled *Heterogeneous Multi-Layer Constellation for Future Satellite Internet: Framework, Optimization, and Evolution Vision* has been published in the **IEEE Wireless Communications (1st Author, JCRQ1, IF13.7)**. DOI: [10.1109/MWC.2026.3654048](https://ieeexplore.ieee.org/document/11381411). 
 - **06, 2025**. I participated in the IEEE International Conference on Communications (**ICC'2025**) in Montreal, Cannada, to share research outputs on the next-generation WIFI networks empowered by deep reinforcement learning.
 - **04, 2024**. I participated in the IEEE Wireless Communications and Networking Conference (**WCNC'2024**) in Dubai, UAE, to share research outputs on the circumlunar constellation network and configuration analysis.
-- **02, 2024**. The paper entitled *Communication-Navigation Integrated Satellite Constellation for Lunar Exploration: Frozen-Orbit-Based HyInc Walker* has been early access for publication in the **IEEE Journal on Selected Areas in Communications (JCRQ1, IF16.8)**. DOI: [10.1109/JSAC.2024.3365888](https://ieeexplore.ieee.org/document/10436138/). 
+- **02, 2024**. The paper entitled *Communication-Navigation Integrated Satellite Constellation for Lunar Exploration: Frozen-Orbit-Based HyInc Walker* has been early access for publication in the **IEEE Journal on Selected Areas in Communications (1st Author, JCRQ1, IF16.8)**. DOI: [10.1109/JSAC.2024.3365888](https://ieeexplore.ieee.org/document/10436138/). 
 - **12, 2023**. I participated in the IEEE Global Communications Conference (**GlobeCom'2023**) in Kuala Lumpur, Malaysia, sharing research outputs on the topic of optimisation and analysis of VLEO satellite constellation design.
-- **10, 2023**. The paper entitled *VLEO Satellite Constellation Design for Regional Aviation and Marine Coverage* has been published in the **IEEE Transactions on Network Science and Engineering (JCRQ1, IF7.3)**. DOI: [10.1109/TNSE.2023.3321600](https://ieeexplore.ieee.org/document/10269648). 
+- **10, 2023**. The paper entitled *VLEO Satellite Constellation Design for Regional Aviation and Marine Coverage* has been published in the **IEEE Transactions on Network Science and Engineering (1st Author, JCRQ1, IF7.3)**. DOI: [10.1109/TNSE.2023.3321600](https://ieeexplore.ieee.org/document/10269648). 
 
 Volunteer Experiences
 ======
