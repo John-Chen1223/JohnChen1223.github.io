@@ -14,7 +14,7 @@ I am interested in wireless communications and networking, space communications,
 News
 ======
 
-- **10, 2026**. I was honored to be selected for the <span style="color:#A30000">**CAST Young S&T Talents Cultivation Program**</span>, a national-level fellowship supporting promising doctoral students in China. 
+- **10, 2026**. I was honored to be selected for the <span style="color:#A30000">**CAST Young S&T Talents Cultivation Program**</span> (中国科协青年科技人才托举工程博士生计划专项), a national-level fellowship supporting promising doctoral students in China. 
 - **09, 2026**. The paper entitled *Permanent Connection Guaranteed Resilient LEO Constellation for Remote Area Communications* has been published in the **IEEE Transactions on Wireless Communications (<span style="color:#A30000">1st Author</span>, JCRQ1, IF10.3)**. DOI: [[10.1109/TWC.2026.3737225](https://doi.org/10.1109/TWC.2026.3737225)](https://ieeexplore.ieee.org/document/11707744). 
 - **06, 2026**. The paper entitled *Heterogeneous Multi-Layer Constellation for Future Satellite Internet: Framework, Optimization, and Evolution Vision* has been published in the **IEEE Wireless Communications (<span style="color:#A30000">1st Author</span>, JCRQ1, IF13.7)**. DOI: [[10.1109/MWC.2026.3654048](https://doi.org/10.1109/MWC.2026.3654048)](https://ieeexplore.ieee.org/document/11381411). 
 - **06, 2025**. I participated in the IEEE International Conference on Communications (**ICC'2025**) in Montreal, Canada, to share research outputs on the next-generation WIFI networks empowered by deep reinforcement learning.
